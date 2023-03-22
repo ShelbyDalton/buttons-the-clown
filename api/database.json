@@ -1,0 +1,103 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "assignments": [
+    {
+      "partytId": "5",
+      "clownId": "1",
+      "date_created": "3/22/2023",
+      "id": 1
+    },
+    {
+      "partytId": "5",
+      "clownId": "2",
+      "date_created": "3/22/2023",
+      "id": 2
+    },
+    {
+      "partyId": "3",
+      "clownId": "1",
+      "date_created": "3/22/2023",
+      "id": 4
+    },
+    {
+      "partyId": "5",
+      "clownId": "2",
+      "date_created": "3/22/2023",
+      "id": 5
+    }
+  ],
+  "parties": [
+    {
+      "id": 1,
+      "parentName": "Sally",
+      "childName": "Cindy",
+      "number of children": 15,
+      "address": "34445 Bianka Ports",
+      "partyDate": "15/27/2156",
+      "length of party in hours": 15
+    },
+    {
+      "parentName": "Nancy",
+      "childName": "Penny",
+      "attendance": "2113",
+      "partyAddress": "address of party ",
+      "partyDate": "2023-04-19",
+      "partyLength": "9",
+      "id": 2
+    },
+    {
+      "parentName": "Holly",
+      "childName": "Molly",
+      "attendance": "-6",
+      "partyAddress": "gahhhhh",
+      "partyDate": "2023-05-23",
+      "partyLength": "9",
+      "id": 3
+    },
+    {
+      "parentName": "Carol",
+      "childName": "Carrie",
+      "attendance": "6551",
+      "partyAddress": "address here",
+      "partyDate": "2023-05-04",
+      "partyLength": "-4",
+      "id": 4
+    },
+    {
+      "parentName": "",
+      "childName": "",
+      "attendance": "",
+      "partyAddress": "",
+      "partyDate": "2023-03-28",
+      "partyLength": "",
+      "id": 5
+    },
+    {
+      "parentName": "",
+      "childName": "",
+      "attendance": "",
+      "partyAddress": "",
+      "partyDate": "2023-07-20",
+      "partyLength": "",
+      "id": 6
+    },
+    {
+      "parentName": "",
+      "childName": "",
+      "attendance": "",
+      "partyAddress": "",
+      "partyDate": "2023-02-21",
+      "partyLength": "",
+      "id": 7
+    }
+  ]
+}
