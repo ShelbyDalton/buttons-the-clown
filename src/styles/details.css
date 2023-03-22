@@ -60,6 +60,7 @@
 }
 
 .partyRequests {
+    border: 7px outset #87fd00;
     background-color: #bdf77b;
     width: 60%;
     margin-left: 1rem;
@@ -72,10 +73,14 @@
     background-color: rgb(140, 140, 248);
     width: 40%;
     padding: 2rem;
+    border: 7px outset #8c3cf5;
 }
 
 .header {
     margin-left: 1rem;
+    background-color: #fa584c;
+    padding: 1rem;
+    border: 10px outset #e61304;
 }
 
 #clowns {
